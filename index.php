@@ -632,6 +632,7 @@
             window.location = '<?php echo $_SERVER['PHP_SELF'] ?>?lang=' + $(this).val();
         });
     });
+
 </script>
 </body>
 </html>
